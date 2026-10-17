@@ -1,0 +1,52 @@
+{
+  "cotizacion_afp_obligatoria": {
+    "valor": 0.10,
+    "fuente": "Superintendencia de Pensiones",
+    "fecha_verificacion": "2026-01-15"
+  },
+  "comision_afp_promedio": {
+    "valor": 0.0098,
+    "fuente": "Superintendencia de Pensiones - Promedio 2026",
+    "fecha_verificacion": "2026-01-15"
+  },
+  "monto_pgu_mensual": {
+    "valor": 214296,
+    "fuente": "Instituto de Previsión Social (IPS)",
+    "fecha_verificacion": "2026-01-15"
+  },
+  "edad_jubilacion_hombres": {
+    "valor": 65,
+    "fuente": "DL 3.500",
+    "fecha_verificacion": "2026-01-15"
+  },
+  "edad_jubilacion_mujeres": {
+    "valor": 60,
+    "fuente": "DL 3.500",
+    "fecha_verificacion": "2026-01-15"
+  },
+  "cotizacion_salud": {
+    "valor": 0.07,
+    "fuente": "Fonasa - Ley 18.469",
+    "fecha_verificacion": "2026-01-15"
+  },
+  "valor_uf_referencia": {
+    "valor": 37800,
+    "fuente": "SII",
+    "fecha_verificacion": "2026-10-15"
+  },
+  "inflacion_anual_defecto": {
+    "valor": 0.03,
+    "fuente": "Banco Central de Chile - Meta",
+    "fecha_verificacion": "2026-01-15"
+  },
+  "rentabilidad_real_defecto": {
+    "valor": 0.035,
+    "fuente": "Superintendencia de Pensiones - Promedio histórico",
+    "fecha_verificacion": "2026-01-15"
+  },
+  "tope_imponible_uf": {
+    "valor": 83.7,
+    "fuente": "Superintendencia de Pensiones",
+    "fecha_verificacion": "2026-01-15"
+  }
+}
