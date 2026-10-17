@@ -62,11 +62,11 @@ if not st.session_state.consentimiento:
     - ✅ Tus datos se usan **solo mientras tienes la página abierta**
     - ✅ Se borran automáticamente al cerrar la página
     - ✅ NO se guardan en bases de datos
-    - ✅ NO se envían a servidores externos
+    - ✅ NO se guardan ni se comparten con terceros
     - ✅ NO se usan cookies de seguimiento
     - ✅ NO pedimos datos personales identificables (RUT, nombre, correo)
     
-    Los cálculos se hacen en tu navegador. Cumplimos con el espíritu de la Ley 19.628 
+    Tus datos se procesan en el servidor de la aplicación solo durante tu sesión y no se guardan. Cumplimos con el espíritu de la Ley 19.628 
     y la Ley 21.719 de protección de datos personales de Chile.
     """)
     
